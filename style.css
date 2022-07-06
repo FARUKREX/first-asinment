@@ -1,0 +1,227 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bannar-part {
+    display: flex;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.bannar-text {
+    padding: 200px 400px;
+}
+
+.bannar-text h1 {
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.bannar-text p {
+    color: antiquewhite;
+    font-size: 18px;
+    text-align: center;
+}
+
+.donate {
+    margin-left: 200px;
+    color: aliceblue;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+/* donate-today---------------------- */
+
+.all-taka {
+    display: flex;
+}
+
+.donate-today {
+    height: 500px;
+}
+
+.donate-today h2 {
+    text-align: center;
+    font-size: 34px;
+    margin-top: 100px;
+
+}
+
+.donate-today p {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(91, 104, 104);
+}
+
+.taka {
+    width: 20%;
+    margin: 50px 80px;
+    /* margin-left: 150px; */
+    background-color: rgb(185, 168, 168);
+    border: 3px solid red;
+
+}
+
+.taka h4 {
+    margin: 20px 10px;
+    padding: 20px;
+}
+
+.donate-today span {
+    font-size: 16px;
+    color: rgb(19, 24, 29);
+    margin-left: 600px;
+
+}
+
+.donate-today .itm {
+    margin-left: 600px;
+
+
+
+}
+
+/* ------services------------ */
+
+.services-item {
+    display: flex;
+
+}
+
+.services {
+    width: 33%;
+    margin-left: 30px;
+    text-align: left;
+    background-color: aquamarine;
+    padding: 20px 10px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.one {
+    background-color: rgb(234, 226, 216);
+}
+
+.tow {
+    background-color: blanchedalmond;
+}
+
+.services h5 {
+    text-align: left;
+    font-size: 24px;
+}
+
+.services p {
+    text-align: left;
+}
+
+/* -------doniation------- */
+.all-help {
+    display: flex;
+    margin-top: 60px;
+}
+
+.help {
+    width: 50%;
+    margin-left: 100px;
+    text-align: left;
+
+
+}
+
+.help h2 {
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    width: 70%;
+
+}
+
+.help p {
+    text-align: left;
+    width: 80%;
+}
+
+.contribute {}
+
+.help img {
+    width: 80%;
+    margin-top: 80px;
+}
+
+.left {
+    margin-left: 0px;
+}
+
+.bild {
+    height: 400px;
+}
+
+/* get-my update----------------------- */
+
+.end-part {
+    margin-top: 120px;
+}
+
+.end-part h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.end-part p {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(89, 81, 81);
+    font-weight: 400;
+}
+
+.end-part .table input {
+    padding: 10px 20px;
+    margin-left: 400px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.end-part .table .end {
+    text-align: left;
+    margin-left: 0px;
+}
+
+.end-part .table {
+    margin-top: 40px;
+    background-color: rgba(122, 113, 101, 0.5);
+    padding: 40px 80px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+/* -------footer-part------- */
+
+footer {
+    background-color: black;
+    height: 180px;
+}
+
+footer h3 {
+    text-align: center;
+    color: brown;
+
+    padding-top: 50px;
+    font-family: serif;
+
+}
+
+footer p {
+    color: aliceblue;
+    text-align: center;
+}
